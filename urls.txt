@@ -1,3 +1,3 @@
 http://backend.course#zakharderzhko
-http://backend.course?name=%22%D0%94%D0%B5%D1%80%D0%B6%D0%BA%D0%BE%20%D0%97%D0%B0%D1%85%D0%B0%D1%80%22&gitnub_name=zakharderzhko&group=%22%D0%A4%D0%95%D0%86-22%D1%81%22&subgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%201%22
+http://backend.course?name=%22%D0%94%D0%B5%D1%80%D0%B6%D0%BA%D0%BE%20%D0%97%D0%B0%D1%85%D0%B0%D1%80%22&github_name=zakharderzhko&group=%22%D0%A4%D0%95%D0%86-22%D1%81%22&subgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%201%22
 http://bank.gov.ua/NBUStatService/v1/statdirectory/basindbank?date=20231001&period=quarter&json
